@@ -6,6 +6,10 @@ Best Website I Make Ever
 ### Make sure to join The servers below:
 - [GX 🪐Galaxy](https://discord.gg/vVxcYSpkvm)
 
+# Add Token
+# Make Commands By Your Self
+# Custom Bot with only Commands and Handlers Only
+
 #### Star the repo and fork it, Ty
 ###### Things You should not do
 - Dont remove credits
